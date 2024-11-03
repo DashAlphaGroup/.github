@@ -1,12 +1,6 @@
-## Hi there 👋
+## Dash Alpha 👋
 
-<!--
+A Dash Alpha foi idealizada por Gabriel Gomes, João Pedro e Bruno Diniz, três jovens de 20 anos que, movidos por uma vontade de crescer no mercado e alcançar mais liberdade profissional, decidiram transformar a paixão por tecnologia e inovação em uma solução prática. Sabemos que entrar no mercado de trabalho pode ser desafiador para jovens como nós, então criamos essa empresa para não só buscar oportunidades, mas também ajudar outras empresas a crescerem por meio de soluções digitais inovadoras.
 
-**Here are some ideas to get you started:**
+Nossa missão é oferecer consultoria e desenvolvimento de alta qualidade, com um olhar fresco e adaptado às necessidades do mercado atual. Queremos ser mais que um fornecedor de serviços: queremos ser parceiros na construção de resultados impactantes e duradouros para nossos clientes.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
